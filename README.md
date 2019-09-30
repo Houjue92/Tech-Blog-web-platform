@@ -1,7 +1,7 @@
 # Tech-Blog-web-platform
 Attention please!This project was developed by Java Spring Boot, but Github categoized it as JavaScript project.
 
-Currently the web platform can be hosting on local machine, working on deploy on Amazon Web Services EC2 now.
+Working on deploy on Amazon Web Services EC2 now.
 
 (1)Designing structure:
    ![flowchart](https://user-images.githubusercontent.com/17009429/65742065-73498580-e0a3-11e9-85c4-ec0303955611.PNG) 
